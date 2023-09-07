@@ -1,8 +1,61 @@
-- 👋 Hi, I’m @MizushimaShiba
-- 👀 I’m interested in Data Algorithm, Backend
-- 🌱 I’m currently learning Backend Development
-- 💞️ I’m looking to collaborate on All Project
-- 📫 Email me @ haidarme@yahoo.co.id
+# MizushimaShiba
+*Email:* haidarme@yahoo.co.id | *Phone:* +6285156064256 | *Location:* Jakarta
+*LinkedIn:* [MizushimaShiba](https://www.linkedin.com/in/mohammad-haidar-yusuf-609919156/)
+
+## Summary
+
+Experienced Fullstack JavaScript Developer with a Diploma in Information & Technology and a GPA of 3.46. Proficient in backend development, API design, and database management. Strong expertise in cloud infrastructure management using Terraform. Adept at collaborative problem-solving and dedicated to continual learning.
+
+## Work Experience
+
+### PT Code Development Indonesia (CODE.ID)
+*Backend Developer*
+- Managed relational databases (RDBMS) for efficient data handling.
+- Administered Virtual Private Servers (VPS) for security and performance.
+- Designed and implemented robust APIs for seamless data communication.
+- Spearheaded database normalization for improved efficiency and data integrity.
+
+### Yuna & Co.
+*Backend Developer - Product*
+- Resolved software bugs to maintain product stability.
+- Innovatively added new features to enhance functionality.
+- Efficiently managed server clusters for optimal performance.
+
+### Traveloka Trinusa
+*Backend Engineer, Customer Care Division*
+- Proactively identified and resolved software bugs, ensuring reliability.
+- Proficiently managed cloud infrastructure using Terraform for efficient provisioning and orchestration.
+- Collaborated in the development of Java Spring applications to enhance division capabilities.
+- Designed and implemented APIs to support core business processes, improving operational efficiency.
+
+### PGI Data
+*Backend Developer, PT ASTRA HONDA MOTOR*
+- Played a pivotal role in revamping an existing sales application by migrating it to the Java Spring framework, resulting in improved performance and maintainability.
+- Contributed significantly to Java Spring development for critical applications.
+- Designed and developed APIs for seamless data exchange and integration, optimizing business processes.
+- Demonstrated strong technical acumen and problem-solving skills in a dynamic environment.
+
+## Skills
+
+**Hard Skills:** JavaScript (Node.js), TypeScript, Express.js, TypeORM, Sequelize, MySQL, PostgreSQL, Java Spring, Terraform, JIRA
+
+**Languages:** Bahasa Indonesia, English
+
+**Soft Skills:** Teamwork, Collaboration, Problem Solving, Eagerness to Learn, Considerate Decision Making
+
+## Projects
+
+### Kipa POS
+*API Development for POS Application*
+- Technologies Used: Node.js, MySQL, JIRA, Insomnia (API Tester), Database Management Tool
+
+### E-Procurement
+*API Development for Procurement Department*
+- Technologies Used: Node.js, Sequelize, API Tester, Database Management Tool
+
+### Yuna Connecter
+*API Development for E-Commerce Application*
+- Technologies Used: TypeScript, TypeORM, PostgreSQL, Object-Oriented Programming, ClickUp
 
 <!---
 MizushimaShiba/MizushimaShiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
