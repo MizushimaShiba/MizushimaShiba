@@ -1,10 +1,9 @@
 # MizushimaShiba
 *Email:* haidarme@yahoo.co.id | *Phone:* +6285156064256 | *Location:* Jakarta
-*LinkedIn:* [MizushimaShiba](https://www.linkedin.com/in/mohammad-haidar-yusuf-609919156/)
 
 ## Summary
 
-Experienced Fullstack JavaScript Developer with a Diploma in Information & Technology and a GPA of 3.46. Proficient in backend development, API design, and database management. Strong expertise in cloud infrastructure management using Terraform. Adept at collaborative problem-solving and dedicated to continual learning.
+Experienced Backend Engineer with over more than 3 years of experience. Proficient in Java Springboot development, API design, and database management. Strong expertise in cloud infrastructure management using Terraform. Adept at collaborative problem-solving and dedicated to continual learning.
 
 ## Work Experience
 
@@ -35,13 +34,22 @@ Experienced Fullstack JavaScript Developer with a Diploma in Information & Techn
 - Designed and developed APIs for seamless data exchange and integration, optimizing business processes.
 - Demonstrated strong technical acumen and problem-solving skills in a dynamic environment.
 
+### 360Kredi
+## Local Indonesian HQ for 360 Shuke Fintech Xinfei China
+*Senior Backend Engineer*
+- Responsible for server-side business logic maintenance.
+- Manage and maintain API systems for the local Indonesia Headquarters of the organization.
+- Proactively identified and resolved software bugs, ensuring reliability.
+- Collaborated in the development of Java Spring applications to enhance division capabilities.
+
+
 ## Skills
 
-**Hard Skills:** JavaScript (Node.js), TypeScript, Express.js, TypeORM, Sequelize, MySQL, PostgreSQL, Java Spring, Terraform, JIRA
+**Hard Skills:** JavaScript (Node.js), TypeScript, Express.js, TypeORM, Sequelize, MySQL, PostgreSQL, Java Springboot, Terraform, JIRA
 
 **Languages:** Bahasa Indonesia, English
 
-**Soft Skills:** Teamwork, Collaboration, Problem Solving, Eagerness to Learn, Considerate Decision Making
+**Soft Skills:** Teamwork, Collaboration, Problem-Solving, Eagerness to Learn, Considerate Decision Making
 
 ## Projects
 
