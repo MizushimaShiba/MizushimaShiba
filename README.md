@@ -35,7 +35,7 @@ Experienced Backend Engineer with over more than 3 years of experience. Proficie
 - Demonstrated strong technical acumen and problem-solving skills in a dynamic environment.
 
 ### 360Kredi
-## Local Indonesian HQ for 360 Shuke Fintech Xinfei China
+#### Local Indonesian HQ for 360 Shuke (Qifu Technology) Fintech Xinfei China
 *Senior Backend Engineer*
 - Responsible for server-side business logic maintenance.
 - Manage and maintain API systems for the local Indonesia Headquarters of the organization.
