@@ -14,12 +14,6 @@ Experienced Backend Engineer with over more than 3 years of experience. Proficie
 - Designed and implemented robust APIs for seamless data communication.
 - Spearheaded database normalization for improved efficiency and data integrity.
 
-### Yuna & Co.
-*Backend Developer - Product*
-- Resolved software bugs to maintain product stability.
-- Innovatively added new features to enhance functionality.
-- Efficiently managed server clusters for optimal performance.
-
 ### Traveloka Trinusa
 *Backend Engineer, Customer Care Division*
 - Proactively identified and resolved software bugs, ensuring reliability.
