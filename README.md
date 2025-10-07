@@ -3,8 +3,11 @@
 
 ## Summary
 
-Experienced Backend Engineer with more than 5 years of experience. Proficient in Java Spring Boot development, API design, and database management. Strong expertise in cloud infrastructure management using Terraform. Adept at collaborative problem-solving and dedicated to continual learning.
+Results-driven Backend Engineer with 5+ years of hands-on experience in building and maintaining scalable, high-performance backend systems. Specialized in **Java Spring Boot** and **Node.js** with a strong background in **banking technology**, **API design**, and **cloud infrastructure**.  
+Proven track record in delivering robust backend solutions within fast-paced fintech and digital banking environments. Passionate about clean architecture, domain-driven design, and continuous improvement in both code quality and system reliability.
 
+**Tech Stack Summary:**  
+Java (Spring Boot, WebFlux, Hibernate, JPA, MyBatis+) · Node.js (Express.js, TypeScript) · Hexagonal Architecture · Domain-Driven Design (DDD) · Reactive Programming · MySQL · PostgreSQL · MongoDB · Redis · RabbitMQ · Docker · Kubernetes · Terraform · AWS · GCP · Jenkins
 ## Work Experience
 
 ### PT Code Development Indonesia (CODE.ID)
